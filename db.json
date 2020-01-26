@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Ant (unidentified)","category":"Red"},
+{"id":2,"name":"Capybara","category":"Crimson"},
+{"id":3,"name":"Antechinus, brown","category":"Purple"},
+{"id":4,"name":"Pine siskin","category":"Indigo"},
+{"id":5,"name":"Carmine bee-eater","category":"Green"},
+{"id":6,"name":"Mountain duck","category":"Fuscia"},
+{"id":7,"name":"Ox, musk","category":"Aquamarine"},
+{"id":8,"name":"Siskin, yellow-rumped","category":"Purple"},
+{"id":9,"name":"Cow, scottish highland","category":"Blue"},
+{"id":10,"name":"Bear, polar","category":"Khaki"},
+{"id":11,"name":"Dog, african wild","category":"Puce"},
+{"id":12,"name":"Tawny eagle","category":"Blue"},
+{"id":13,"name":"Goose, canada","category":"Indigo"},
+{"id":14,"name":"Bird, magnificent frigate","category":"Blue"},
+{"id":15,"name":"Long-billed corella","category":"Teal"},
+{"id":16,"name":"Feral rock pigeon","category":"Turquoise"},
+{"id":17,"name":"Jackal, asiatic","category":"Green"},
+{"id":18,"name":"Alpaca","category":"Pink"},
+{"id":19,"name":"Bettong, brush-tailed","category":"Mauv"},
+{"id":20,"name":"Black bear","category":"Indigo"}
+]
+}
